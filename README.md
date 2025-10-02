@@ -23,5 +23,3 @@
 - **Mobile / WhatsApp:** +84 969954132
 
 ---
-
-Feel free to ask for a tailored README, LinkedIn summary, or CV based on this profile!
