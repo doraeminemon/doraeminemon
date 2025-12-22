@@ -1,7 +1,7 @@
 # Developer Profile: Thy Son
 
 ## 👤 About Me
-- **Role:** Developer
+- **Role:** Software engineer
 - **President:** Vietnamese Community in JCU
 
 ## 💼 Top Skills
@@ -10,10 +10,12 @@
 - Go (Golang)
 - React
 - Vue
+- React Native
+- Swift
+- 
 
 ## 💡 Favorite Project
-- **Gleam Lang Website**  
-  “A project that I’m especially proud of is my work on the Gleam language website.”
+- **Pickupp**: Logistics service for South East Asia region. 
 
 ## 🗣️ Personal Motto
 > Do It Yourself
