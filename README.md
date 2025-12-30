@@ -1,4 +1,4 @@
-# Developer Profile: Thy Son
+# Developer Profile: Đỗ Đình Thy Sơn
 
 ## 👤 About Me
 - **Role:** Senior Software Engineer
