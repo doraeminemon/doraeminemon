@@ -1,7 +1,7 @@
 # Developer Profile: Thy Son
 
 ## 👤 About Me
-- **Role:** Software engineer
+- **Role:** Senior Software Engineer
 - **President:** Vietnamese Community in JCU
 
 ## 💼 Top Skills
@@ -12,7 +12,6 @@
 - Vue
 - React Native
 - Swift
-- 
 
 ## 💡 Favorite Project
 - **Pickupp**: Logistics service for South East Asia region. 
