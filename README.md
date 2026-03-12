@@ -19,9 +19,4 @@
 
 ## 🗣️ Personal Motto
 > Do It Yourself
-
-## 📱 Contact
-- **LinkedIn:** [thy-son](https://www.linkedin.com/in/thy-son/)
-- **Mobile / WhatsApp:** +84 969954132
-
 ---
